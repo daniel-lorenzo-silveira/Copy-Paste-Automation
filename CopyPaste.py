@@ -2,6 +2,8 @@ import time
 import pyperclip
 import pyautogui
 
+#py -m pip install pynput pyperclip pyautogui keyboard 
+
 # Desativa parada brusca para movimentos rápidos
 pyautogui.FAILSAFE = False
 
